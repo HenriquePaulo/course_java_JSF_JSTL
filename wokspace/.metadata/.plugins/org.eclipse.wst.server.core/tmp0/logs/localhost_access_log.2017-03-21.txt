@@ -1,0 +1,12 @@
+127.0.0.1 - - [21/Mar/2017:17:37:36 -0300] "GET / HTTP/1.1" 404 988
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/tela.xhtml HTTP/1.1" 200 1718
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/javax.faces.resource/core.js;jsessionid=F775D233AC5D031F75B0DEF682F85BE0?ln=primefaces&v=6.0 HTTP/1.1" 200 30554
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/javax.faces.resource/jquery/jquery.js;jsessionid=F775D233AC5D031F75B0DEF682F85BE0?ln=primefaces&v=6.0 HTTP/1.1" 200 107785
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/javax.faces.resource/jquery/jquery-plugins.js;jsessionid=F775D233AC5D031F75B0DEF682F85BE0?ln=primefaces&v=6.0 HTTP/1.1" 200 245797
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/javax.faces.resource/components.js;jsessionid=F775D233AC5D031F75B0DEF682F85BE0?ln=primefaces&v=6.0 HTTP/1.1" 200 357791
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/javax.faces.resource/editor/editor.js;jsessionid=F775D233AC5D031F75B0DEF682F85BE0?ln=primefaces&v=6.0 HTTP/1.1" 200 15548
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/javax.faces.resource/editor/editor.css;jsessionid=F775D233AC5D031F75B0DEF682F85BE0?ln=primefaces&v=6.0 HTTP/1.1" 200 1644
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:38 -0300] "GET /ProjetoPF/faces/javax.faces.resource/theme.css?ln=primefaces-aristo HTTP/1.1" 200 24408
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:39 -0300] "GET /ProjetoPF/faces/javax.faces.resource/editor/images/buttons.gif?ln=primefaces&v=6.0 HTTP/1.1" 200 3064
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:39 -0300] "GET /ProjetoPF/faces/javax.faces.resource/editor/images/toolbar.gif?ln=primefaces&v=6.0 HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:17:37:39 -0300] "GET /favicon.ico HTTP/1.1" 404 1010

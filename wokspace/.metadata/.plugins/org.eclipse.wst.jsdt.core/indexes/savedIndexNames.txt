@@ -1,0 +1,12 @@
+INDEX VERSION 1.3+C:\curso\wokspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+903221794.index
+3823602745.index
+476442431.index
+279464321.index
+138162215.index
+3675534081.index
+456387302.index
+1547658530.index
+1160277558.index
+325507689.index
+2084268661.index
